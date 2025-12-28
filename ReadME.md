@@ -89,7 +89,7 @@ Kullanıcı geri bildirimi ile empati skoru optimize edilerek model adaptasyonu.
 
 
 
+Not:
 Veri Seti aşağıdaki linkte verilmiştir .
-
-Not:https://drive.google.com/drive/folders/1-Twl4GiWAPNwNpNnLgzeHdYYDhd2aA7v?usp=sharing
+Drive Linki https://drive.google.com/drive/folders/1-Twl4GiWAPNwNpNnLgzeHdYYDhd2aA7v?usp=sharing
 Github Link:https://github.com/ssahin7/Multimodal_Empati_Sistemi-
