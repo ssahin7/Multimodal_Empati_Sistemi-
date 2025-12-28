@@ -86,3 +86,9 @@ LoRA yerine QLoRA veya PEFT optimizasyonları ile performans iyileştirmesi.
 Güçlü GPU/TPU altyapısı ile latency ve yanıt kalitesinin artırılması.
 
 Kullanıcı geri bildirimi ile empati skoru optimize edilerek model adaptasyonu.
+
+
+
+Veri Seti aşağıdaki linkte verilmiştir .
+Not:https://drive.google.com/drive/folders/1-Twl4GiWAPNwNpNnLgzeHdYYDhd2aA7v?usp=sharing
+Github Link:https://github.com/ssahin7/Multimodal_Empati_Sistemi-
