@@ -19,9 +19,11 @@ Bu proje, [kısa problem tanımı] amacıyla geliştirilmiş bir makine öğrenm
 - Scikit-learn / PyTorch / TensorFlow
 - Matplotlib, Seaborn
 - Jupyter Notebook
-- 
+
+
+
 ## 📁 Proje Dosya Yapısı (Önerilen)
-## Proje Dosya Yapısı (Önerilen)
+
 
 ```text
 
@@ -37,17 +39,3 @@ Bu proje, [kısa problem tanımı] amacıyla geliştirilmiş bir makine öğrenm
 │   └── tokenizer.pkl     # Tokenizer veya ek objeler
 │
 └── .gitignore
-
-
-
-
-
-## ⚙️ Kurulum
-
-```bash
-git clone https://github.com/kullanici/project-name.git
-cd project-name
-pip install -r requirements.txt
-▶️ Çalıştırma
-
-Model eğitimi:python src/train.py
