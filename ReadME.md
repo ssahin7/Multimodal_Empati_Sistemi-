@@ -1,6 +1,6 @@
 # Project Name
 
-Bu proje, Ses verileri işlenerek stress analizi yapılmış daha sonrada finetune edilmiş llm modeliyle strese uygun chatbot geliştirilmiştir.LLM uygulamasıdır.
+Bu projeDE, Ses verileri işlenerek stress analizi yapılmış daha sonrada finetune edilmiş llm modeliyle strese uygun chatbot geliştirilmiştir.LLM uygulamasıdır.
 
 ## 🎯 Amaç
 - Veri üzerinden anlamlı örüntüler çıkarmak
