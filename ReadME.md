@@ -21,20 +21,23 @@ Bu proje, [kısa problem tanımı] amacıyla geliştirilmiş bir makine öğrenm
 - Jupyter Notebook
 - 
 ## 📁 Proje Dosya Yapısı (Önerilen)
-turkce-finetune/
-│
+## Proje Dosya Yapısı (Önerilen)
+
+```text
+
 ├── data/
-│   ├── dataset.csv                # Türkçe fine-tune verisi
-│   └── README.md                  # Veri seti açıklaması
+│   ├── dataset.csv        # Türkçe fine-tune verisi
+│   └── README.md          # Veri seti açıklaması
 │
 ├── notebooks/
-│   ├── LLMSpeech.ipynb              # Asıl eğitim notebook'u
-│            
+│   └── LLMSpeech.ipynb    # Asıl eğitim notebook'u
 │
 ├── model/
-│   ├── model.safetensors           # Ana model ağırlığı
-│   ├── tokenizer.pkl               # Tokenizer veya ek objeler
+│   ├── model.safetensors  # Ana model ağırlığı
+│   └── tokenizer.pkl     # Tokenizer veya ek objeler
+│
 └── .gitignore
+
 
 
 
